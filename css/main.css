@@ -1,5 +1,5 @@
 html {
-    background: #ff0084;
+    background: #ff0;
     
     -webkit-font-smoothing: antialiased;
 }
@@ -16,6 +16,7 @@ body {
     padding: 2em 2em 4em;
     text-align: justify;
 }
+
 
 .li, a{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -40,7 +41,7 @@ body {
 .nav_links li {
     background-color: black;
     display: inline-block;
-    padding: 5px 50px;
+    padding: 5px 38px;
     cursor: pointer;
 }
 
@@ -76,8 +77,6 @@ a {
 b, strong {
     font-weight: 600;
 }
-
-
 
 img {
     animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
