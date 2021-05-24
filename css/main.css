@@ -56,8 +56,12 @@ body {
 
 logo {
     text-indent: -9999999999px;
-    background: url(Willi%20News%20Logo2.png)
+    background: url(Willi%20News%Logo%5_1.png)
     cursor: pointer;
+}
+
+b:hover {
+    src: url(Willi%20News%20Logo%205_1.png)
 }
 
 h1, h2, h3, h4, h5, h6 {
