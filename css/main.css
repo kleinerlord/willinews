@@ -34,6 +34,11 @@ body {
     
 }
 
+p.hanging {
+    text-indent: -5em;
+    margin-left: 5em;
+}
+
 .nav_links {
     list-style: none;
 }
