@@ -58,6 +58,13 @@ p.hanging {
     color: #ff0084;
 }
 
+g {
+    
+}
+g:hover {
+    color: #ff0084;
+}
+
 
 logo {
     text-indent: -9999999999px;
@@ -78,6 +85,10 @@ h2 {
 }
 
 a {
+    color: #545454;
+}
+
+c {
     color: #ff0084;
 }
 
