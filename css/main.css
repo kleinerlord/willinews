@@ -31,7 +31,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
-    
+
 }
 
 p.hanging {
@@ -41,8 +41,30 @@ p.hanging {
 
 .nav_links {
     list-style: none;
+    align-items: center;
+   
 }
 
+text {
+    background-color: white;
+    display: inherit;
+    padding: 1px 15px;
+    border: 4px solid black;
+    margin: 20px 0px;
+    border-radius: 1px;
+    
+}
+
+umbox {
+    background-color: white;
+    display: inherit;
+    padding: 1px 15px;
+    border: 4px solid black;
+    margin: 25px 0px;
+    border-radius: 1px;
+    
+}
+    
 .nav_links li {
     background-color: black;
     display: inline-block;
@@ -58,6 +80,7 @@ p.hanging {
     color: #ff0084;
 }
 
+<--- macht pink --->
 g {
     
 }
@@ -65,11 +88,13 @@ g:hover {
     color: #ff0084;
 }
 
+<--- macht pink --->
 
 logo {
     text-indent: -9999999999px;
     background: url(Willi%20News%Logo%5.png)
     cursor: pointer;
+  
 }
 
 
